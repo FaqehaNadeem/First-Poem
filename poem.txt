@@ -1,6 +1,8 @@
-Third Commit
+Fourth Commit
 
-I ask AI
+I'm back in charge
+I don't want to 
+ask AI
 to write my poem,
 a loop of prompts
 and revisions.
