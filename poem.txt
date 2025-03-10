@@ -1,24 +1,13 @@
-Second Commit
+Third Commit
 
-A poem,
-starting again—
-not from scratch,
-but from version two.
+I ask AI
+to write my poem,
+a loop of prompts
+and revisions.
 
-Didn’t know where to begin,
-so I asked AI,
-revisiting
-Daniel Shiffman’s
-Git and GitHub for Poets.
+Starting over,
+but not alone—
+code, art, words,
+rerouted.
 
-Relearning
-after unlearning,
-committing words
-to the page,
-knowing this isn’t
-the best poem—
-not yet.
-
-But every repo
-needs a second commit.
 
