@@ -1,17 +1,24 @@
-Starting
-over
-with a poem
-Didn't know where to start
-watching
-Daniel Shiffman's
-Git and Github for poets
-on YouTube
-relearning
-after unlearning
-This is
-not the best
-poem
-at all
-but i needed
-somewhere to
-start
+Second Commit
+
+A poem,
+starting again—
+not from scratch,
+but from version two.
+
+Didn’t know where to begin,
+so I asked AI,
+revisiting
+Daniel Shiffman’s
+Git and GitHub for Poets.
+
+Relearning
+after unlearning,
+committing words
+to the page,
+knowing this isn’t
+the best poem—
+not yet.
+
+But every repo
+needs a second commit.
+
