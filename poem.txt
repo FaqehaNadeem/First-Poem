@@ -17,6 +17,11 @@ Unlearning and Relearning
 beginning 
 with version control
 
+Learning to share and collaborate
+keeping track
+of all the 
+old versions
+
 writing some bad poetry,
 instead of none at all
 
