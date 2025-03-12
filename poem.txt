@@ -1,15 +1,22 @@
-Fourth Commit
+First poem
 
-I'm back in charge
-I don't want to 
-ask AI
-to write my poem,
-a loop of prompts
-and revisions.
+Keeping it simple
+back to square one
 
 Starting over,
-but not alone—
-code, art, words,
-rerouted.
+watching Daniel Shiffman's
+Git and Github
+for poets
+playlist
 
+starting with new tools
+and a new purpose
+for programming
+
+Unlearning and Relearning
+beginning 
+with version control
+
+writing some bad poetry,
+instead of none at all
 
